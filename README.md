@@ -1,4 +1,3 @@
-                                  ### Diamonds vs Hexagons
 ## Introduction
 
 **Diamonds vs Hexagons** is a game inspired by "Plants vs Zombies" but with a simplified geometric approach. In this game, you'll face hexagonal enemies invading your territory, and you must defend against them using strategically placed diamonds that launch projectiles. The game features a grid-based layout with three rows and three columns, where you'll strategically place your diamonds to counter the incoming hexagons.
