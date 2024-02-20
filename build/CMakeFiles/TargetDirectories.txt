@@ -1,0 +1,3 @@
+/Users/dalyatobescu/Documents/gfx-framework-master 2/build/CMakeFiles/GFXFramework.dir
+/Users/dalyatobescu/Documents/gfx-framework-master 2/build/CMakeFiles/edit_cache.dir
+/Users/dalyatobescu/Documents/gfx-framework-master 2/build/CMakeFiles/rebuild_cache.dir

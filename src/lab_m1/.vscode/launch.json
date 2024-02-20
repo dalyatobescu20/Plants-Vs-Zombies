@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dalyatobescu/Documents/gfx-framework-master/src/lab_m1/Tema1",
+      "program": "/Users/dalyatobescu/Documents/gfx-framework-master/src/lab_m1/Tema1/build/Debug/outDebug"
+    }
+  ]
+}
