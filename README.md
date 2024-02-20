@@ -21,10 +21,6 @@ The game's graphical user interface (GUI) displays important information such as
 - **Defending Against Hexagons:** Diamonds can launch projectiles to damage hexagons. Each diamond type can only damage specific colored hexagons.
 - **Losing Lives:** If a hexagon reaches the left side of the grid, you lose a life. Losing all lives results in losing the game.
 
-## Implementation
-
-The game's implementation follows specific guidelines outlined in the project description. You can refer to the provided guidelines for details on scoring, basic functionalities, animations, gameplay mechanics, advanced features, and additional functionalities.
-
 ## Instructions
 
-To play the game, download the demo [here](#) and follow the on-screen instructions. Make use of the GUI to select diamond types, place them strategically on the grid, collect stars, and defend against the incoming hexagons.
+OpenGL: Ensure you have the necessary OpenGL libraries and dependencies installed. Details about how this framework works and how to run it, you can find here [gfx-framework](https://github.com/UPB-Graphics/gfx-framework).
