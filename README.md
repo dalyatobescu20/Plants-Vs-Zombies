@@ -24,3 +24,9 @@ The game's graphical user interface (GUI) displays important information such as
 ## Instructions
 
 OpenGL: Ensure you have the necessary OpenGL libraries and dependencies installed. Details about how this framework works and how to run it, you can find here [gfx-framework](https://github.com/UPB-Graphics/gfx-framework).
+
+## Tutorial
+
+https://github.com/dalyatobescu20/Plants-Vs-Zombies/assets/94745479/dc7f3c6d-b221-4357-b854-bedf059a3f32
+
+
