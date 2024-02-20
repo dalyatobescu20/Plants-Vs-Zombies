@@ -27,6 +27,9 @@ OpenGL: Ensure you have the necessary OpenGL libraries and dependencies installe
 
 ## Tutorial
 
-https://github.com/dalyatobescu20/Plants-Vs-Zombies/assets/94745479/dc7f3c6d-b221-4357-b854-bedf059a3f32
+<video width="640" height="360" controls>
+  <source src="https://github.com/dalyatobescu20/Plants-Vs-Zombies/assets/94745479/dc7f3c6d-b221-4357-b854-bedf059a3f32" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
