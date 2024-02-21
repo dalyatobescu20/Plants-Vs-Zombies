@@ -1,3 +1,4 @@
+
 ## Introduction
 
 **Diamonds vs Hexagons** is a game inspired by "Plants vs Zombies" but with a simplified geometric approach. In this game, you'll face hexagonal enemies invading your territory, and you must defend against them using strategically placed diamonds that launch projectiles. The game features a grid-based layout with three rows and three columns, where you'll strategically place your diamonds to counter the incoming hexagons.
@@ -26,9 +27,7 @@ The game's graphical user interface (GUI) displays important information such as
 OpenGL: Ensure you have the necessary OpenGL libraries and dependencies installed. Details about how this framework works and how to run it, you can find here [gfx-framework](https://github.com/UPB-Graphics/gfx-framework).
 
 ## Tutorial
-
-
-https://github.com/dalyatobescu20/Plants-Vs-Zombies/assets/94745479/ffbb58bb-7b22-47e4-a2fe-c6c1a4cebb37
+https://github.com/dalyatobescu20/Plants-Vs-Zombies/assets/94745479/7fb537f3-6b9e-4ce1-b743-893029afe2be
 
 
 
